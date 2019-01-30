@@ -7,7 +7,6 @@ public class ForEach {
 
         for (int i = 0; i < anyChars.length; i++){
             anyChars[i] = symbolCode++;
-            asdas
         }
 
         for (char i: anyChars
