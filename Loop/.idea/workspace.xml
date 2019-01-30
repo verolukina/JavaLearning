@@ -130,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548428279722" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548877262012" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -145,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompareToIgnoreCase">
+  <component name="RunManager" selected="Application.ForEach">
     <configuration name="CompareToIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompareToIgnoreCase" />
       <module name="Loop" />
@@ -153,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExercise.Exercise" />
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExercise.ForEach" />
       <module name="Loop" />
       <extension name="coverage">
         <pattern>
@@ -195,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEach" />
         <item itemvalue="Application.CompareToIgnoreCase" />
         <item itemvalue="Application.Switch2" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.StringArray" />
-        <item itemvalue="Application.Exercise" />
       </list>
     </recent_temporary>
   </component>
